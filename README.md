@@ -19,5 +19,5 @@ As an Artificial Intelligence and Data Science student, I created this portfolio
 - HTML5
 - CSS3
 
-## 📁 Project Structure
+
 
